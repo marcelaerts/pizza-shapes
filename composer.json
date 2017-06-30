@@ -1,5 +1,6 @@
 {
     "name": "marcelaerts/pizza-shapes",
+    "type": "wordpress-plugin",
     "version": "1.0.1",
     "dist": {
         "url": "https://github.com/marcelaerts/pizza-shapes/archive/master.zip",
