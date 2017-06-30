@@ -1,0 +1,8 @@
+{
+    "packages": {
+        "marcelaerts/pizza-shapes": {
+            "dev-master": { @composer.json },
+            "1.0.1": { @composer.json }
+        }
+    }
+}
