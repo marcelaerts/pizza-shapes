@@ -8,4 +8,4 @@
  * Author URI: http://www.youaredigital.nl
  */
 
-echo "MrPizzaShapes will rise again."
+echo "MrPizzaShapes will rise again.";
