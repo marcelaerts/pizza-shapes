@@ -1,0 +1,8 @@
+{
+    "name": "marcelaerts/pizza-shapes",
+    "version": "1.0.1",
+    "dist": {
+        "url": "https://github.com/marcelaerts/pizza-shapes/archive/master.zip",
+        "type": "zip"
+    }
+}
