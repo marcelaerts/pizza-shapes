@@ -3,7 +3,7 @@
     "type": "wordpress-plugin",
     "version": "1.0.1",
     "dist": {
-        "url": "https://github.com/marcelaerts/pizza-shapes/archive/master.zip",
+        "url": "https://github.com/marcelaerts/pizza-shapes/archive/1.0.1.zip",
         "type": "zip"
     }
 }
